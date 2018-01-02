@@ -2,4 +2,6 @@
 
 ## Logger
 > 	Log             *logrus.Entry `sm:"~.*"`
+
+
 > 	Log             *logrus.Entry `sm:"~.loggerName"`
